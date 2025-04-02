@@ -1,4 +1,4 @@
-# LM_traffic_analysis
+# Language Model을 이용한 트래픽 분류
 ## 상명대학교 소프트웨어학과
 
 내용
