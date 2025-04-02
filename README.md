@@ -15,5 +15,5 @@
 |역할|이름|GitHub|
 |------|---|---|
 |역할|오희진| [GitHub](https://github.com/heejin-02)|
-|역할|편아현| [GitHub]()|
+|역할|편아현| [GitHub](https://github.com/vusdkvus1)|
 
